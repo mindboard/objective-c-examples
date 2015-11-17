@@ -9,6 +9,6 @@ Do make on terminal.
 
 ## Introduction
 
-./1 ... basics
-./2 ... draw graphic and save it as png  
+- ./1 ... basics
+- ./2 ... draw graphic and save it as png  
 
